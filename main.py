@@ -13,7 +13,7 @@ def download_youtube_audio(youtube_url, output_path):
     clip.close()
     os.remove("./uploads/temp_audio.mp4")
 
-youtube_url = "https://www.youtube.com/watch?v=a7zORU6AP7o"
+youtube_url = input("Youtube Link: ")
 
 output_path = './uploads/output_file.mp3'
 download_youtube_audio(youtube_url, output_path)
