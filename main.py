@@ -15,7 +15,7 @@ def extract_video_id(youtube_url):
         return None
 
 # Example usage
-youtube_url = "https://www.youtube.com/watch?v=n7uwj04E0I4"
+youtube_url = input("Youtube Link: ")
 video_id = extract_video_id(youtube_url)
 transcript={}
 texts=[]
