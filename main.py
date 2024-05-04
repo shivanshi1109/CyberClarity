@@ -39,8 +39,11 @@ import os
 from pytube import YouTube
 from pydub import AudioSegment
 
-# Function to download YouTube audio and convert it to MP3
-def download_youtube_audio_as_mp3(video_url, output_path):
+import os
+from pytube import YouTube
+
+# Function to download YouTube audio as an MP4 file
+def download_youtube_audio_as_mp4(video_url, output_path):
     try:
         # Get YouTube video
         yt = YouTube(video_url)
@@ -49,14 +52,10 @@ def download_youtube_audio_as_mp3(video_url, output_path):
         audio_stream = yt.streams.filter(only_audio=True).first()
         
         # Download audio
-        audio_stream.download(output_path=output_path, filename="audio")
 
-        # Convert to MP3 using Pydub
-        audio_path = os.path.join(output_path, "audio.mp4")
-        audio_segment = AudioSegment.from_file(audio_path)
-        audio_segment.export(output_path, format="mp3")
-        
-        print("Audio saved as MP3:", output_path)
+        audio_stream.download(output_path=output_path, filename=f"audio.mp4")
+
+        print("Audio saved as MP4:", os.path.join(output_path, "audio.mp4"))
     except Exception as e:
         print("Error downloading audio:", str(e))
 
@@ -64,4 +63,4 @@ def download_youtube_audio_as_mp3(video_url, output_path):
 video_url = input("Youtube Link: ")
 output_path = "./uploads"
 
-download_youtube_audio_as_mp3(video_url, output_path)
+download_youtube_audio_as_mp4(video_url, output_path)
