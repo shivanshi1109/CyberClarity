@@ -1,0 +1,14 @@
+transformers
+python-dotenv
+torch
+ipywidgets
+accelerate
+bitsandbytes
+langchain
+streamlit
+pypdf2
+pypdf
+sentence-transformers
+faiss-cpu
+openai
+langchain-chroma
