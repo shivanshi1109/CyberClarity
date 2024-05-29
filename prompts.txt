@@ -1,0 +1,188 @@
+1. You are an advanced AI trained to summarize text. Below is a transcript from a YouTube video. Your task is to summarize this transcript by extracting only the most important information, ensuring the summary is between 500-550 words. Make sure to include key points, significant details, and any relevant conclusions. Here is the transcript:
+
+[Insert Transcript Here]
+
+Please provide the summary now.
+
+2. As an expert summarizer, your job is to condense the following YouTube video transcript into a summary of 500-550 words. Focus on capturing the essential points and main ideas, leaving out any unnecessary details. Here is the transcript:
+
+[Insert Transcript Here]
+
+Generate the summary below.
+
+3. Summarize the following YouTube video transcript in 500-550 words. The summary should include only the crucial information and main points discussed in the video. Avoid including minor details and irrelevant content. Transcript:
+
+[Insert Transcript Here]
+
+Summary:
+
+
+One shot prompts
+
+4. You are an advanced AI trained to summarize text. Below is a transcript from a YouTube video. Your task is to summarize this transcript by extracting only the most important information, ensuring the summary is between 500-550 words. Make sure to include key points, significant details, and any relevant conclusions. 
+
+Here is an example of a good summary for a different video:
+---
+Transcript: 
+"In this video, we explore the history of artificial intelligence, starting from its early days in the 1950s. The video discusses the major milestones in AI development, including the creation of the first neural networks, the rise of machine learning, and the advent of deep learning. It also covers the ethical implications of AI and the potential future advancements in the field. Key figures in AI, such as Alan Turing and John McCarthy, are highlighted for their contributions. The video concludes with a discussion on the importance of responsible AI development and the need for regulations to ensure AI benefits society."
+
+Summary:
+"This video provides an overview of the history of artificial intelligence, beginning from its inception in the 1950s. It highlights significant milestones such as the development of neural networks, machine learning, and deep learning. The ethical implications and future prospects of AI are also discussed. Key contributors like Alan Turing and John McCarthy are recognized. The video emphasizes the need for responsible AI development and regulatory measures to ensure AI serves society's best interests."
+---
+
+Here is the transcript you need to summarize:
+
+[Insert Transcript Here]
+
+Please provide the summary now.
+
+
+5. As an expert summarizer, your job is to condense the following YouTube video transcript into a summary of 500-550 words. Focus on capturing the essential points and main ideas, leaving out any unnecessary details.
+
+Example of a good summary:
+---
+Transcript: 
+"In this video, we delve into the impact of climate change on global weather patterns. The speaker explains how rising temperatures are causing more frequent and severe weather events, including hurricanes, floods, and droughts. Scientific data is presented to show the correlation between human activities and climate change. The video also discusses possible solutions to mitigate these effects, such as reducing carbon emissions and adopting sustainable practices. Interviews with climate scientists provide further insights into the urgency of addressing climate change."
+
+Summary:
+"This video examines the effects of climate change on global weather patterns, highlighting the link between rising temperatures and increased frequency of extreme weather events. It presents scientific data demonstrating the human influence on climate change and discusses mitigation strategies like reducing carbon emissions and adopting sustainable practices. Insights from climate scientists underscore the urgency of taking action against climate change."
+---
+
+Here is the transcript you need to summarize:
+
+[Insert Transcript Here]
+
+Generate the summary below.
+
+
+6. Summarize the following YouTube video transcript in 500-550 words. The summary should include only the crucial information and main points discussed in the video. Avoid including minor details and irrelevant content.
+
+Example Summary:
+---
+Transcript: 
+"In this tutorial, the presenter walks through the process of creating a responsive website using HTML, CSS, and JavaScript. Key topics include setting up the project structure, writing clean HTML, styling with CSS for different screen sizes, and adding interactivity with JavaScript. The video also covers best practices for web development and tips for optimizing performance. By the end of the tutorial, viewers should be able to build a basic responsive website."
+
+Summary:
+"This tutorial provides a step-by-step guide to creating a responsive website using HTML, CSS, and JavaScript. It covers project setup, clean HTML writing, CSS styling for various screen sizes, and adding JavaScript interactivity. The video also discusses web development best practices and performance optimization tips. Viewers will learn how to build a basic responsive website by the end of the tutorial."
+---
+
+Here is the transcript you need to summarize:
+
+[Insert Transcript Here]
+
+Summary:
+
+
+Few shot prompts
+7. You are an advanced AI trained to summarize text. Below is a transcript from a YouTube video. Your task is to summarize this transcript by extracting only the most important information, ensuring the summary is between 500-550 words. Make sure to include key points, significant details, and any relevant conclusions.
+
+Here are examples of good summaries for different videos:
+
+Example 1:
+---
+Transcript: 
+"In this video, we explore the history of artificial intelligence, starting from its early days in the 1950s. The video discusses the major milestones in AI development, including the creation of the first neural networks, the rise of machine learning, and the advent of deep learning. It also covers the ethical implications of AI and the potential future advancements in the field. Key figures in AI, such as Alan Turing and John McCarthy, are highlighted for their contributions. The video concludes with a discussion on the importance of responsible AI development and the need for regulations to ensure AI benefits society."
+
+Summary:
+"This video provides an overview of the history of artificial intelligence, beginning from its inception in the 1950s. It highlights significant milestones such as the development of neural networks, machine learning, and deep learning. The ethical implications and future prospects of AI are also discussed. Key contributors like Alan Turing and John McCarthy are recognized. The video emphasizes the need for responsible AI development and regulatory measures to ensure AI serves society's best interests."
+---
+
+Example 2:
+---
+Transcript: 
+"In this video, we delve into the impact of climate change on global weather patterns. The speaker explains how rising temperatures are causing more frequent and severe weather events, including hurricanes, floods, and droughts. Scientific data is presented to show the correlation between human activities and climate change. The video also discusses possible solutions to mitigate these effects, such as reducing carbon emissions and adopting sustainable practices. Interviews with climate scientists provide further insights into the urgency of addressing climate change."
+
+Summary:
+"This video examines the effects of climate change on global weather patterns, highlighting the link between rising temperatures and increased frequency of extreme weather events. It presents scientific data demonstrating the human influence on climate change and discusses mitigation strategies like reducing carbon emissions and adopting sustainable practices. Insights from climate scientists underscore the urgency of taking action against climate change."
+---
+
+Example 3:
+---
+Transcript: 
+"In this tutorial, the presenter walks through the process of creating a responsive website using HTML, CSS, and JavaScript. Key topics include setting up the project structure, writing clean HTML, styling with CSS for different screen sizes, and adding interactivity with JavaScript. The video also covers best practices for web development and tips for optimizing performance. By the end of the tutorial, viewers should be able to build a basic responsive website."
+
+Summary:
+"This tutorial provides a step-by-step guide to creating a responsive website using HTML, CSS, and JavaScript. It covers project setup, clean HTML writing, CSS styling for various screen sizes, and adding JavaScript interactivity. The video also discusses web development best practices and performance optimization tips. Viewers will learn how to build a basic responsive website by the end of the tutorial."
+---
+
+Here is the transcript you need to summarize:
+
+[Insert Transcript Here]
+
+Please provide the summary now.
+
+8. As an expert summarizer, your job is to condense the following YouTube video transcript into a summary of 500-550 words. Focus on capturing the essential points and main ideas, leaving out any unnecessary details.
+
+Here are examples of good summaries for different videos:
+
+Example 1:
+---
+Transcript: 
+"In this video, we look at the economic impact of the COVID-19 pandemic. The speaker discusses how various industries have been affected, the measures taken by governments to mitigate the economic downturn, and the long-term implications for global markets. Key statistics and expert opinions are provided to give a comprehensive overview of the situation. The video concludes with potential recovery scenarios and what to expect in the coming years."
+
+Summary:
+"This video analyzes the economic impact of the COVID-19 pandemic, detailing its effects on different industries and the governmental measures to counteract the downturn. It presents key statistics and expert insights to offer a thorough understanding of the global economic situation. The video ends with possible recovery scenarios and future expectations."
+---
+
+Example 2:
+---
+Transcript: 
+"In this documentary, we explore the evolution of space travel from the early days of the space race to the modern era of private space exploration. The video highlights significant achievements, such as the moon landing, the development of the Space Shuttle, and the emergence of companies like SpaceX and Blue Origin. Interviews with astronauts and engineers provide personal insights into the challenges and triumphs of space exploration. The documentary concludes with a look at future missions to Mars and beyond."
+
+Summary:
+"This documentary traces the evolution of space travel, covering milestones from the space race to contemporary private space exploration. It highlights achievements like the moon landing, Space Shuttle development, and the rise of SpaceX and Blue Origin. Personal insights from astronauts and engineers reveal the challenges and successes in space exploration. The documentary concludes by looking at future missions to Mars and beyond."
+---
+
+Example 3:
+---
+Transcript: 
+"In this health and wellness video, the presenter explains the benefits of a balanced diet and regular exercise. The video covers essential nutrients, the importance of hydration, and the role of physical activity in maintaining overall health. Tips for creating a sustainable fitness routine and meal planning are also provided. The presenter emphasizes the need for a holistic approach to health, combining nutrition, exercise, and mental well-being."
+
+Summary:
+"This health and wellness video discusses the benefits of a balanced diet and regular exercise, covering essential nutrients, hydration, and physical activity's role in health. It offers tips for sustainable fitness routines and meal planning, emphasizing a holistic approach to health that includes nutrition, exercise, and mental well-being."
+---
+
+Here is the transcript you need to summarize:
+
+[Insert Transcript Here]
+
+Generate the summary below.
+
+
+9. Summarize the following YouTube video transcript in 500-550 words. The summary should include only the crucial information and main points discussed in the video. Avoid including minor details and irrelevant content.
+
+Here are examples of good summaries for different videos:
+
+Example 1:
+---
+Transcript: 
+"In this video, the speaker explores the concept of mindfulness and its benefits for mental health. The video explains how mindfulness practices can reduce stress, improve focus, and enhance overall well-being. Various techniques such as meditation, deep breathing exercises, and mindful walking are demonstrated. Testimonials from individuals who have incorporated mindfulness into their daily lives provide real-world examples of its positive impact."
+
+Summary:
+"This video explores mindfulness and its mental health benefits, including stress reduction, improved focus, and enhanced well-being. It demonstrates techniques like meditation, deep breathing, and mindful walking, supplemented by testimonials illustrating mindfulness's positive impact."
+---
+
+Example 2:
+---
+Transcript: 
+"In this video, we delve into the history and development of renewable energy sources. The speaker covers the evolution of solar, wind, and hydroelectric power, discussing key innovations and breakthroughs that have made these energy sources more viable. The video also addresses the environmental and economic benefits of transitioning to renewable energy, as well as the challenges that still need to be overcome. Interviews with experts in the field provide deeper insights into the future of renewable energy."
+
+Summary:
+"This video examines the history and development of renewable energy sources, focusing on solar, wind, and hydroelectric power. It discusses innovations and breakthroughs that have enhanced these energy sources' viability, their environmental and economic benefits, and the remaining challenges. Expert interviews offer deeper insights into the future of renewable energy."
+---
+
+Example 3:
+---
+Transcript: 
+"In this educational video, the presenter outlines the basics of quantum computing. The video explains fundamental concepts such as qubits, superposition, and entanglement. It also highlights the potential applications of quantum computing in fields like cryptography, material science, and artificial intelligence. The presenter simplifies complex topics to make them accessible to a broader audience, emphasizing the transformative potential of quantum technology."
+
+Summary:
+"This educational video introduces the basics of quantum computing, explaining concepts like qubits, superposition, and entanglement. It highlights potential applications in cryptography, material science, and AI. The presenter makes complex topics accessible, emphasizing quantum technology's transformative potential."
+---
+
+Here is the transcript you need to summarize:
+
+[Insert Transcript Here]
+
+Summary:
+
