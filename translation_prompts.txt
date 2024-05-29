@@ -1,0 +1,1 @@
+"Translate and then summarize the text given below into conversational kannada. Give it in the form of points. Exclude irrelevant stuff from this.:\n{text}"
