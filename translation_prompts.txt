@@ -1,1 +1,3 @@
 "Translate and then summarize the text given below into conversational kannada. Give it in the form of points. Exclude irrelevant stuff from this.:\n{text}"
+
+"Translate the given text into "+ language_needed+". Understand the text properly and correct any grammatical mistakes. Output the translated text in the form of points.:\n{text}"
